@@ -9,3 +9,7 @@ div:hover {
     background-color: rgb(225, 60, 162);
     color: rgb(0, 0, 0);
 }
+
+p{
+    font-size: 50px;
+}
